@@ -1,0 +1,8 @@
+{
+ "version": 5,
+ "url": "jiutian-3d.html",
+ "size": 7591139,
+ "sha256": "d4fc2d2883dc9602f957d9a2a7373e62f9c971885ec7cfae1579d06d3c504b38",
+ "notes": "示例：把 version 改大即推送",
+ "minApp": 4
+}

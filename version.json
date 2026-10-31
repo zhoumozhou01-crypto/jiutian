@@ -1,8 +1,8 @@
 {
- "version": 5,
+ "version": 6,
  "url": "jiutian-3d.html",
- "size": 7591139,
- "sha256": "d4fc2d2883dc9602f957d9a2a7373e62f9c971885ec7cfae1579d06d3c504b38",
- "notes": "示例：把 version 改大即推送",
+ "size": 10646981,
+ "sha256": "317dbb316d13a61b936b5e42c2c513e03e6a76760983b84cfba978aeede2b6ad",
+ "notes": "画质大升级：PBR真实材质贴图、HDR环境光照与反射、泛光与调色、高画质实时阴影与体积光、动态水面、随风摆动的草、角色飘带；新增男修/女修与画质(低/中/高)设置、致谢页",
  "minApp": 4
 }

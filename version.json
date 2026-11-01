@@ -1,8 +1,9 @@
 {
-  "version": 11,
+  "version": 12,
   "url": "jiutian-3d.html",
-  "size": 37507737,
-  "sha256": "8908a5a7a607dd06375f99aceba5f78e169898ccf578751fd1af443097f3d236",
-  "notes": "v11：主角轻量化着色——仅保留颜色贴图，去掉法线/金属/粗糙度贴图；柔和自发光伪卡通 + 描边（Inverted Hull）；抗锯齿与像素比上限2；未减面、贴图未降分辨率",
-  "minApp": 4
+  "size": 37685669,
+  "sha256": "efff86acb8031146a9b15948340ca72f3be89ec088d6b59c5f520e3ae3b3db79",
+  "notes": "v12：设置里新增「导入NPC模型」——可导入本机下载的 MMD 模型(.zip/.pmx)替换村长等NPC，仅存手机本地；卡通着色+描边；主角不变",
+  "minApp": 4,
+  "apk": "https://github.com/zhoumozhou01-crypto/jiutian/releases/download/app-v6/jiutian.apk"
 }

@@ -1,9 +1,9 @@
 {
-  "version": 12,
+  "version": 13,
   "url": "jiutian-3d.html",
-  "size": 37685669,
-  "sha256": "efff86acb8031146a9b15948340ca72f3be89ec088d6b59c5f520e3ae3b3db79",
-  "notes": "v12：设置里新增「导入NPC模型」——可导入本机下载的 MMD 模型(.zip/.pmx)替换村长等NPC，仅存手机本地；卡通着色+描边；主角不变",
+  "size": 37688199,
+  "sha256": "e425ed94e40d4fc03256e0645ff12b6e01e1a3b17345fbbed2a46b203cbab075",
+  "notes": "v13：一键导入原神NPC包（可多选、自动分配，NPC名字显示角色名）；模型仅存手机本地，不含任何原神文件",
   "minApp": 4,
   "apk": "https://github.com/zhoumozhou01-crypto/jiutian/releases/download/app-v6/jiutian.apk"
 }

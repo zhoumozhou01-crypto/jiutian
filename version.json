@@ -1,9 +1,9 @@
 {
-  "version": 13,
+  "version": 14,
   "url": "jiutian-3d.html",
-  "size": 37688199,
-  "sha256": "e425ed94e40d4fc03256e0645ff12b6e01e1a3b17345fbbed2a46b203cbab075",
-  "notes": "v13：一键导入原神NPC包（可多选、自动分配，NPC名字显示角色名）；模型仅存手机本地，不含任何原神文件",
+  "size": 37691090,
+  "sha256": "da6bb5bcda65cd00430f81051d53ef69e00cddf65d015e6329b66f1750160563",
+  "notes": "v14：画质优化——曝光/泛光/雾调整，MSAA，主角卡通材质恢复法线，屏幕空间细描边，导入NPC不再发黑并放下双臂+呼吸",
   "minApp": 4,
   "apk": "https://github.com/zhoumozhou01-crypto/jiutian/releases/download/app-v6/jiutian.apk"
 }
